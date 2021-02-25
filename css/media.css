@@ -1,0 +1,10 @@
+@media (max-width: 991px) {
+    .carousel-hidden {
+        position: inherit;
+        width: auto;
+        padding: 20px 30px 15px;
+    }
+    .carousel-hidden {
+        bottom: 0;
+    }
+}
